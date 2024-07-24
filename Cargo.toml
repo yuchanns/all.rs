@@ -1,0 +1,11 @@
+[package]
+name = "alll"
+description = "all"
+version = "0.0.0"
+edition = "2021"
+
+authors = ["yuchanns <me@yuchanns.xyz>"]
+license = "Apache-2.0"
+repository = "https://github.com/yuchanns/all.rs"
+
+[dependencies]
